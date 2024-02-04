@@ -1,0 +1,7 @@
+
+if BOARD_SHAKTI
+config BOARD
+    default "shakti"
+
+
+endif # BOARD_SHAKTI

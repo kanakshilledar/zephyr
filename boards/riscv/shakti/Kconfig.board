@@ -1,0 +1,3 @@
+config BOARD_SHAKTI
+    bool "Shakti Eval Board"
+    depends on SOC_RISCV32_SHAKTI
